@@ -56,9 +56,9 @@ The service offers to the end customer a fully fledged private network.
 
 - - - - - -
 
-<p class="callout warning">WHMCS minimal version: 8 +</p>
+WHMCS minimal version: 8 +
 
-<p class="callout warning">[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +</p>
+[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +
 
 [![image-1669282246256.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1669282246256.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1669282246256.png)
 
