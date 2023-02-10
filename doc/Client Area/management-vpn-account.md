@@ -1,0 +1,20 @@
+# Management VPN account
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
+
+To manage/change your VPN account, click on the "Management" button on the selected account.
+
+[![image-1673191194161.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1673191194161.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1673191194161.png)
+
+On the account management page you have the option.
+
+- Change IP address
+- Change password for IKEv2 protocol
+- Deactivate account
+- Delete account
+- Download the configuration as a text file or as a QR code WireGuard protocol
+- Download CA certificate IKEv2 protocol
+- Download configuration profile for mobile devices IKEv2 protocol
+- Generate a one-time link with connection parameters. For example, to transfer the connection settings to the end user
+
+[![image-1673191232833.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1673191232833.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1673191232833.png)

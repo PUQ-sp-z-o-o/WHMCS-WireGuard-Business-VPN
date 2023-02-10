@@ -1,0 +1,13 @@
+# Add VPN account
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
+
+##### This is how the page for adding a new VPN account looks like.
+
+<p class="callout info">Each VPN account has a unique client ID, the ID is generated according to the scheme &lt;user\_id&gt;-&lt;service\_id&gt;-Manually entered value. &lt;user\_id&gt;-&lt;service\_id&gt; are generated automatically by module. You can modify manually the last part.</p>
+
+[![image-1669287469884.png](https://doc.puq.info/uploads/images/gallery/2022-11/scaled-1680-/image-1669287469884.png)](https://doc.puq.info/uploads/images/gallery/2022-11/image-1669287469884.png)
+
+To create a new account, the client must enter the following.
+
+Username, Select an available IP address from the dropdown list. Then click the **Add VPN account** button.
