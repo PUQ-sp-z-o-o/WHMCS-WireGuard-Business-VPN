@@ -2,20 +2,20 @@
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
-#### The WireGuard Business VPN module provides the ability to sell the Virtual Private Network service to business customers.
+### The WireGuard Business VPN module provides the ability to sell the Virtual Private Network service to business customers.
 
 The module is designed as a professional solution for companies and corporations, which enables remote access to company resources from anywhere in the world in a safe and monitored manner. The biggest difference from common VPN solutions such as NordVPN, EasyVPN etc. is the professional nature of the service.
 
-##### Attention.  
-The module require the PUQVPNCP control panel with active license.  
-  
-[PUQVPNCP Documentation](https://doc.puq.info/books/puqvpncp/page/description)  
-[PUQVPNCP Download](https://download.puqcloud.com/cp/puqvpncp/)  
-[PUQVPNCP Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn)
+>### Attention.  
+>The module require the PUQVPNCP control panel with active license.  
+>  
+>[PUQVPNCP Documentation](https://doc.puq.info/books/puqvpncp/page/description)  
+>[PUQVPNCP Download](https://download.puqcloud.com/cp/puqvpncp/)  
+>[PUQVPNCP Order now](https://panel.puqcloud.com/index.php?rp=/store/puqvpn)
 
-#####  
+###  
 
-##### What makes Business VPN different from regular, widely offered VPNs
+### What makes Business VPN different from regular, widely offered VPNs
 
 The end customer of the service receives such opportunities as:
 
@@ -27,7 +27,7 @@ Thanks to our solution, the client does not have to delegate the company's resou
 This model of operation allows IT departments in companies to configure in detail and securely internal Firewall, passing specific ports, detailed traffic monitoring, or to keep through internal IDS *which is not possible when using commonly offered solutions.*  
 Such a VPN becomes an integral part of the company's IT infrastructure and is ideally suited to the conditions of a given client.
 
-#### Who and why needs such a service that this module provides.
+### Who and why needs such a service that this module provides.
 
 The service offers to the end customer a fully fledged private network.
 
@@ -54,9 +54,9 @@ The service offers to the end customer a fully fledged private network.
 
 - - - - - -
 
-<p class="callout warning">WHMCS minimal version: 8 +</p>
+>WHMCS minimal version: 8 +
 
-<p class="callout warning">[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +</p>
+>[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +
 
 [![image-1673190975954.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1673190975954.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1673190975954.png)
 
