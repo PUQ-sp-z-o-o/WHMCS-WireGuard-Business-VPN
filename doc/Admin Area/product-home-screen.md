@@ -2,7 +2,7 @@
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
-##### The main screen of the product contains the following items.
+### The main screen of the product contains the following items.
 
 - WireGuard interface configuration information
 - Firewall Nat Rules
