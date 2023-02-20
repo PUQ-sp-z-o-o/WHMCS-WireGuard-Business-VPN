@@ -1,6 +1,6 @@
 # 3. Add server (PUQVPNCP) in WHMCS
 
-#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
 ### Add a new server to the system WHMCS.
 
