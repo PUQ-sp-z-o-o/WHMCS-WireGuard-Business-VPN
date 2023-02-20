@@ -1,6 +1,17 @@
 # Changelog
 
-##### v1.1 Released 07-01-2023
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
+
+### v1.2.1 Released 20-02-2023
+
+1. Support for php 7.4 has been restored
+2. Fixed bugs in templates
+3. Added login button
+4. Adding icons in templates
+
+- - - - - -
+
+### v1.2 Released 07-01-2023
 
 1. Support WHMCS V8.6
 2. Support IonCube PHP Loader v12
@@ -9,6 +20,6 @@
 
 - - - - - -
 
-##### v1.0 Released 25-11-2022
+### v1.0 Released 25-11-2022
 
 First version
