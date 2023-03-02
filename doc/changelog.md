@@ -7,6 +7,8 @@
 1. Added port forwarding functionality
 2. Design changes, icons added
 
+- - - - - -
+
 ### v1.2.1 Released 20-02-2023
 
 1. Support for php 7.4 has been restored
