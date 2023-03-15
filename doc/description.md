@@ -44,7 +44,8 @@ The service offers to the end customer a fully fledged private network.
 - Module supports multilingualism
 - Account limit per package
 - Bandwidth Limit per account
-- Link to instructions for setting up the service in the client area.
+- Link to instructions for setting up the service in the client area
+- Port forwarding
 
 ### Functions of the client area:
 
@@ -56,8 +57,12 @@ The service offers to the end customer a fully fledged private network.
 
 >WHMCS minimal version: 8 +
 
->[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.1 +
+>[PUQVPNCP](https://doc.puq.info/books/puqvpncp/page/description): 1.6 +
 
-[![image-1673190975954.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1673190975954.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1673190975954.png)
+![image](https://user-images.githubusercontent.com/81689153/225249359-862adb26-784e-440c-8391-3dc090c64e62.png)
 
-[![image-1673190981727.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1673190981727.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1673190981727.png)
+![image](https://user-images.githubusercontent.com/81689153/225249407-92e431d7-5d41-4625-b5df-172f19907985.png)
+
+![image](https://user-images.githubusercontent.com/81689153/225249438-d1018055-591d-46fd-8f14-886e202c84be.png)
+
+![image](https://user-images.githubusercontent.com/81689153/225249476-8a45cccf-c620-4083-8105-91a7316160e3.png)
