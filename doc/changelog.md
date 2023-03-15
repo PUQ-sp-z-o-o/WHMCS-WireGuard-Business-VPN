@@ -2,6 +2,12 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.3.1 Released 14-03-2023
+ 
+1. Fixed bug with urls in templates. The bug occurred in the case when WHMCS is not installed in the root folder of the site.
+
+- - - - - -
+
 ### v1.3 Released 02-03-2023
  
 1. Added port forwarding functionality
