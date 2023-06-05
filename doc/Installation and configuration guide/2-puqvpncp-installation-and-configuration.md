@@ -24,8 +24,8 @@ apt-get install bind9 -y
 ### 3. Install the puqvpncp package
 
 ```shell
-wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.6-8_amd64.deb
-dpkg -i puqvpncp_1.6-8_amd64.deb
+wget https://download.puqcloud.com/cp/puqvpncp/puqvpncp_1.6.1_amd64.deb
+dpkg -i puqvpncp_1.6.1_amd64.deb
 ```
 
 ### 4. After installation, connect to your server via a web browser.
