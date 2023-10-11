@@ -2,7 +2,15 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.4.5 Released 11-10-2023
+
+1. Supported WHMCS v8.8.0
+2. Translations added/updated **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
+
+- - - - - -
+
 ### v1.4 Released 05-06-2023
+
 1. Added the ability to change the MTU of the WireGuard interface
 2. Added the ability to set AllowedIPs on the WireGuard interface
  
