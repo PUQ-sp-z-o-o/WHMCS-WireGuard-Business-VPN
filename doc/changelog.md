@@ -5,7 +5,7 @@
 ### v1.5 Released 07-04-2023
 
 1. Added "endpoint configuration option" to service configuration
-2. 
+
 - - - - - -
 
 ### v1.4.5 Released 11-10-2023
