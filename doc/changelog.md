@@ -2,6 +2,17 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-wireguard-business-vpn) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-WireGuard-Business-VPN/) | [FAQ](https://faq.puqcloud.com/)
 
+### v2.0 Released 23-09-2024
+
+> Module is coded ionCube v13
+
+Supported php version:
+- php 7.4 WHMCS 8.11.0 -
+- php 8.1 WHMCS 8.11.0 +
+- php 8.2 WHMCS 8.11.0 +
+
+- - - - - -
+
 ### v1.5 Released 07-04-2023
 
 1. Added "endpoint configuration option" to service configuration
